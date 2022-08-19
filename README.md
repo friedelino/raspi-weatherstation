@@ -1,4 +1,4 @@
-# Raspi-Weatherstation
+# friedelino's Raspi-Weatherstation
 
 ... my tiny little weatherstation running on my good old Raspi 2B+ @home using
 the [Adafruit BMP280](https://www.adafruit.com/product/2651 "Adafruit BMP280")
