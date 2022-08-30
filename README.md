@@ -14,18 +14,18 @@ General TODOs:
 - [ ] Add nix files
 
 
-# Refactoring `raspi-weatherstation.py`:
+## Refactoring `raspi-weatherstation.py`:
 
-## Basic Structure: 
+### Basic Structure: 
 
 1. cmdline parsing, 
 2. reading data 
 3. Plotting
 
-## TODOs
+### TODOs
 
-- [ ] TODO move each structure section to seperate functions (classes?!?)
-- [ ] TODO make STARTDATE first data point.
-- [ ] TODO implement error handling
-- [ ] TODO switch to english
-- [ ] TODO maybe use more fancy cmd line parsing / menu (click, cloup, ...)
+- [ ] move each structure section to seperate functions (classes?!?)
+- [ ] make STARTDATE first data point.
+- [ ] implement error handling
+- [ ] switch to english
+- [ ] maybe use more fancy cmd line parsing / menu (click, cloup, ...)
