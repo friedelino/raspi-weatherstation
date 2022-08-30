@@ -6,9 +6,26 @@ Sensor.
 
 !!! Extremly WIP !!!
 
-TODOs:
+General TODOs:
 - [ ] Make it clean code
 - [ ] Publish the backend
 - [ ] Get rid of shell-scripts
 - [ ] Turn into pyproject
 - [ ] Add nix files
+
+
+# Refactoring `raspi-weatherstation.py`:
+
+## Basic Structure: 
+
+1. cmdline parsing, 
+2. reading data 
+3. Plotting
+
+## TODOs
+
+- [ ] TODO move each structure section to seperate functions (classes?!?)
+- [ ] TODO make STARTDATE first data point.
+- [ ] TODO implement error handling
+- [ ] TODO switch to english
+- [ ] TODO maybe use more fancy cmd line parsing / menu (click, cloup, ...)
